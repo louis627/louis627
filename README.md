@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @louis627
 - 👀 I’m interested in machine learning, NFT based digital art, computer graphics and block chain based healthcare system development.
-- 🌱 I’m currently learning blockchain based eHealthcare system development, GAN(generative adversarial networks).
+- 🌱 I’m currently studying the blockchain based eHealthcare system development, GAN(generative adversarial networks).
 - 💞️ I’m looking to collaborate on anything related to the filed above
 - 📫 How to reach me : jy1770@nyu.edu
 
